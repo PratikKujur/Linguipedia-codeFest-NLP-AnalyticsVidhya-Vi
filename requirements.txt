@@ -1,0 +1,16 @@
+pandas
+numpy
+transformers
+datasets
+tensorflow
+matplotlib
+seaborn
+gensim
+nltk
+ekphrasis
+tweet-preprocessor
+textblob
+symspellpy
+scikit-learn
+torch
+transformers[torch]
